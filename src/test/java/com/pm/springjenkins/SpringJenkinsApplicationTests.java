@@ -16,7 +16,7 @@ class SpringJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test executed.......");
-		logger.fo("Pipeline added for multiple task");
+		logger.info("Pipeline added for multiple task");
         assertEquals(true,true);
 	}
 
